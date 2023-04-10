@@ -1,0 +1,6 @@
+
+[
+{"OID":"1","customer_id":"1","item_no":"1","item_quantity":"3","address":"G\/F, Room 127-133, Ching Yung House, Cheung Ching Estate, Tsing Yi, N.T.","current":"completed delivery\n"},
+{"OID":"2","customer_id":"2","item_no":"1","item_quantity":"20","address":"Flat D3\/F. Che Wah Industrial Bldg.1-7 Kin Hong St. Kwai Chung N. T. , Hong Kong","current":"Dispatched from warehouse, delivery on the way"},
+{"OID":"3","customer_id":"4","item_no":"2","item_quantity":"30","address":"Room 2509 25f. Technology Plaza 29-35 Sha Tsui Road, Tsuen Wan District, Hong Kong","current":"Waiting for delivery in the warehouse"}
+]
